@@ -1,9 +1,0 @@
-# Define se jogadores com permissao de admin/op ignoram a censura.
-admin-immune: false
-
-# Lista de palavras que serao censuradas no chat.
-bad-words:
-  - "vai se fuder"
-  - "porra"
-  - "caralho"
-  - "vai tomar no cu"
