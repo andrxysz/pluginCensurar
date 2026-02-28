@@ -1,0 +1,9 @@
+# Define se administradores são imunes a censura
+admin-immune: false
+
+# Palavras bloqueadas (adicione o quanto quiser)
+palavroes:
+  - "vai se fuder"
+  - "porra"
+  - "caralho"
+  - "vai tomar no cu"

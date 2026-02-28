@@ -1,0 +1,8 @@
+name: pluginCensura
+version: '${project.version}'
+main: br.plugins.PluginCensura
+description: Plugin simples para censurar palavroes no chat.
+permissions:
+  plugincensura.bypass:
+    description: Admin/ops recebem bypass contra a censura.
+    default: op
